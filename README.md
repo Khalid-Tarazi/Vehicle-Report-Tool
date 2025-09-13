@@ -5,13 +5,17 @@ A simple Java Swing application that allows users to input vehicle information, 
 <img width="1119" height="493" alt="image" src="https://github.com/user-attachments/assets/95ad642c-67de-402f-b71c-a636af718744" />
 
 -- Different way to run it.
-This is a representaion using flowcharts of the code without using GUI, just running it from the main meethod using only one class:
 
-<img width="940" height="1229" alt="image" src="https://github.com/user-attachments/assets/e23ad698-1cb5-45ec-8f1c-132a112a070a" />
+This is a representaion using flowcharts of the code without using GUI, just running it from the main meethod using only one class.
 
-<img width="940" height="707" alt="image" src="https://github.com/user-attachments/assets/f1d74d31-ddfe-45f3-909c-740fd7dbf53b" />
 
-<img width="940" height="577" alt="image" src="https://github.com/user-attachments/assets/57b367be-5747-4301-9117-463bd1af2e9a" />
+<img width="1694" height="2214" alt="main method" src="https://github.com/user-attachments/assets/7644392d-7ffd-4ac8-90e8-199823715e3f" />
+Fig 1. Main Method
 
+<img width="1714" height="1289" alt="run method" src="https://github.com/user-attachments/assets/6133da55-419c-4c0a-a8f3-56cecb79c7d6" />
+Fig 2. Run() Method
+
+<img width="1656" height="1017" alt="search method" src="https://github.com/user-attachments/assets/567cffa4-f313-4782-b654-b19b0a444d28" />
+Fig 3. Search() Method
 
 
