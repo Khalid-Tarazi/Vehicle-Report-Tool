@@ -1,0 +1,1 @@
+A simple Java Swing application that allows users to input vehicle information, assess its condition, and generate a structured report. This project was created as part of a learning exercise in Java GUI development and Object-Oriented Programming.
